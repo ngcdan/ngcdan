@@ -1,10 +1,4 @@
 ### <div align="center"> Hi there. I am Dan 👋 </div>
-
-<p align="center">🌱 I love programming and software development. My favorite language is java. 🤟</p>
-<p align="center">👯 I had 1+ years of working, I have accumulated experience in developing and operating Java projects. 🤟</p>
-<p align="center">💻 The dark mode is my favorite 🤟</p>
-
-
 <!--
 **ngcdan/ngcdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

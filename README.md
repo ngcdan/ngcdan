@@ -1,5 +1,4 @@
 <h1 align="center">Hi there. I am Dan 👋 </h1>
-<h3 align="center">An open source enthusiast from Viet Nam 🇻🇳 </h3>
 <!--
 **ngcdan/ngcdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

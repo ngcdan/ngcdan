@@ -1,6 +1,5 @@
 <h1 align="center">Hi there. I am Dan 👋 </h1>
 
-
 [![ngcdan's github stats](https://github-readme-stats.vercel.app/api?username=ngcdan&hide=issues&show_icons=true)](https://github.com/ngcdan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngcdan&layout=compact)](https://github.com/ngcdan)
 <!--

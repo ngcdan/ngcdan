@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm Dan 👋</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngcdan&layout=compact&theme=radical" alt="Top Langs">
-</p>
-
 ---
 
 🌱 **Currently Learning**: python, chatbot

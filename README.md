@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Dan 👋</h1>
----
 
 🌱 **Currently Learning**: python, chatbot
 

@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Dan 👋</h1>
 
-🌱 **Currently Learning**: python, chatbot
+🌱 **Currently Learning**: python, AI, LLM
 
-👨‍💻 **Working on**: everyday, rasa-chatbot
+👨‍💻 **Working on**: everyday
 
 ---
 
